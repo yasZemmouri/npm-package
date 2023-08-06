@@ -1,0 +1,25 @@
+{
+    "name": "my-web-project-template",
+    "version": "1.0.0",
+    "description": "template to start a web project simple folder structure with bootstrap",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yasZemmouri/npm-package.git"
+    },
+    "keywords": [
+        "web",
+        "template",
+        "frontend",
+        "project",
+        "starter"
+    ],
+    "author": "Yassine Zemmouri",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yasZemmouri/npm-package/issues"
+    },
+    "homepage": "https://github.com/yasZemmouri/npm-package#readme"
+}
